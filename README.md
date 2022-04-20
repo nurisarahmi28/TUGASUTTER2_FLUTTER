@@ -1,7 +1,7 @@
 # hello_world
 
 A new Flutter project.
-
+![Alt Text](https://github.com/nurisarahmi28/TUGASUTTER2_FLUTTER/blob/master/Screenshot%20(324).png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
